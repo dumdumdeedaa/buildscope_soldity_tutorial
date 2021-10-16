@@ -1,2 +1,2 @@
-# buildscope_solodity_tutorial
-weekend tutorial
+# BuildScope Solodity Tutorial
+app.buildscope.so
